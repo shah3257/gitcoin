@@ -89,7 +89,7 @@ xcsas
 kjk
 # vuepress build output
 .vuepress/dist
-asa
+asanmn
 # Serverless directories
 .serverless/
 
